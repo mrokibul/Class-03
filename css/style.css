@@ -1,0 +1,109 @@
+img{
+	max-width: 100%;
+}
+header{
+	box-shadow: 0px 5px 60px #d1d2d4;
+}
+
+body{
+	font-family: sans-serif;
+	text-transform: uppercase;
+
+
+}
+.container{
+	width: 1200px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+.Logo{
+	width: 20%;
+	float: left;
+}
+
+.menu{
+	width: 80%;
+	float: left;
+	
+}
+
+.menu ul{
+	margin: 0px;
+	padding: 5px;
+
+}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+
+}
+.menu ul li a{
+	width: 80%;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 700;
+	margin: 0px 50px 0px 50px; 
+	font-size: 17px;
+	color: #0071bb;
+	text-decoration: none;
+	display: block;
+	padding: 10px 10px 10px 10px;
+
+}
+
+.menu ul li a:hover{
+	background: #0071bb;
+	color: #fff;
+	transition-duration: 1s;
+}
+
+.banner-section{
+	text-align: center;
+}
+
+.banner-section h1{
+	font-size: 50px;
+	color: #0071bb;
+	padding: 20px 50px;
+	line-height: 1.5;
+
+}
+
+.banner-section h1:hover{
+	background: #0071bb;
+	color: #fff;
+	transition-duration: 1s;
+}
+
+
+.banner-section a{
+	font-size: 25px;
+	color: #fff;
+	background-color: #0071bb;
+	text-decoration: none;
+	padding: 15px 30px;
+	display: inline-block;
+	border-radius: 8px; 
+
+}
+
+ 
+ .Middle-section{
+	text-align: left;
+}
+
+.Middle-section h2{
+	font-size: 25px;
+	color: #0071bb;
+	padding: 20px 0px 0px 0px;
+	line-height: 1.5;
+}
+
+.Middle-section a{
+	font-size: 12px;
+	color: #231f20;
+	text-decoration: none;
+
+}
